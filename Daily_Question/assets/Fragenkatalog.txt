@@ -1,0 +1,4 @@
+frage1	a	b	c	d
+frage2	b	c	d	a
+frage3	d	c	b	a
+frage4	a	c	b	d

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Daily_Question</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="to_the_daily_question">To the Daily Question</string>
+    <string name="ranking">Ranking</string>
+    <string name="settings">Settings</string>
+    <string name="impressum">Impressum</string>
+    <string name="this_is_activity_2">This is Activity 2</string>
+
+</resources>
